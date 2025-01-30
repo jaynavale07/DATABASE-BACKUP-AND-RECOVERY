@@ -57,3 +57,9 @@ The resources involved in this task are:
 In this demonstration, we used **MySQL Workbench** to perform the backup and recovery of a MySQL database. This graphical interface makes the process of backing up and restoring data much easier compared to using command-line tools, making it ideal for users who prefer a user-friendly interface for database administration.
 
 By performing these tasks, you have learned how to safeguard your data with backups and recover it in case of failure. This is an essential practice in database management to ensure that data is always available and protected.
+
+**OUTPUT**:
+
+![Image](https://github.com/user-attachments/assets/2702b9e8-627b-49db-9a26-9fbfd5d47384)
+
+[Backup_and_Recovery_Report.pdf](https://github.com/user-attachments/files/18608848/Backup_and_Recovery_Report.pdf)
